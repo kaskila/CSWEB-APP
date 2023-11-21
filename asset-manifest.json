@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CSWEB-APP/static/css/main.dff5f70c.css",
+    "main.js": "/CSWEB-APP/static/js/main.88b2a18b.js",
+    "static/media/back.webp": "/CSWEB-APP/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/bg.webp": "/CSWEB-APP/static/media/bg.baa1024a4ae092566a75.webp",
+    "static/media/about.webp": "/CSWEB-APP/static/media/about.22f0f6ac19b3c2f6a0e8.webp",
+    "index.html": "/CSWEB-APP/index.html",
+    "main.dff5f70c.css.map": "/CSWEB-APP/static/css/main.dff5f70c.css.map",
+    "main.88b2a18b.js.map": "/CSWEB-APP/static/js/main.88b2a18b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dff5f70c.css",
+    "static/js/main.88b2a18b.js"
+  ]
+}
