@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Full time Programs",
+    "tours": [
+      {
+        "id": 1,
+        "name": "Software Engineering",
+        "duration": 4,
+        "image": "https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "link": "https://www.mtu.edu/cs/undergraduate/software/what/#:~:text=Software%20engineering%20is%20the%20branch,software%20solutions%20for%20end%20users."
+      },
+      {
+        "id": 2,
+        "name": "Systems Engineering",
+        "duration": 4,
+        "image": "https://plus.unsplash.com/premium_photo-1663126673686-9a3e5522f224?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
+        "link": "https://www.bu.edu/eng/academics/departments-and-divisions/systems-engineering/se-degree-programs/prospective-se-graduate-students/what-is-systems-engineering/"
+      },
+      {
+        "id": 3,
+        "name": "Networking and Information Security",
+        "duration": 4,
+        "image": "https://media.istockphoto.com/id/1455755410/photo/portrait-of-early-20s-female-stem-student.webp?s=2048x2048&w=is&k=20&c=LDny3MP-lg-sUIhs5doGNMtDJ9rZCd0beSQggflrntI=",
+        "link": "https://onlinedegrees.sandiego.edu/cyber-security-information-security-network-security/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Short Courses",
+    "tours": [
+      {
+        "id": 4,
+        "name": "CISCO",
+        "duration": "Depends",
+        "image": "https://images.mktw.net/im-547915?width=700&height=466",
+        "link": "https://learningnetwork.cisco.com/s/ccna"
+      }
+    ]
+  }
+]
